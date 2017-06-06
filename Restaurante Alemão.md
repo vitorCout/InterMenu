@@ -53,3 +53,6 @@ SOLICITAÇÃO DE DIEGO:
 * Sentimento
 * Fonte Decorativa e Funcional
 
+SOLICITAÇÃO DE MEIRE:
+
+* Analisar 03 cardápios de restaurantes alemães, com base nas teorias utilizadas (linguagem, signo e cultura)
