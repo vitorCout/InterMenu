@@ -45,9 +45,11 @@ SIGNOS:
 	* Oktoberfest
 
 
+SOLICITAÇÃO DE DIEGO:
 
-Paleta Cores
-Obras
-Artistas
-Sentimento
-Fonte Decorativa e Funcional
+* Paleta Cores
+* Obras
+* Artistas
+* Sentimento
+* Fonte Decorativa e Funcional
+
